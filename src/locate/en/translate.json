@@ -1,0 +1,10 @@
+{
+    "translations": {
+        "page": {
+            "header": "Hello"
+        },
+        "content": {
+            "name": "My name is"
+        }
+    }
+}

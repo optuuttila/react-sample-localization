@@ -1,3 +1,8 @@
+# sample-react-localization
+
+This React sample project demonstrates how localization is done using i18next framework.
+Original code from [Localization with React JS](https://medium.com/@tariqul.islam.rony/internationalization-localization-with-react-js-65d6f6badd56)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
